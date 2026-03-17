@@ -1,0 +1,16 @@
+ID_Transaccion,Producto,Categoria,Precio_Unitario,Cantidad_Vendida,Metodo_Pago
+T001,Laptop Pro 15,Electronica,1200.50,2,Tarjeta
+T002, Mouse Inalambrico,ELECTRONICA,25.00,5,Efectivo
+T003,Teclado Mecanico,electronica,,3,Tarjeta
+T004,Silla Gamer,Muebles,150.00,NULL,Transferencia
+T005,Monitor 27 Pulgadas,Electronica,-300.00,2,Tarjeta
+T006,Escritorio de Madera,Muebles,200.00,-2,Efectivo
+T007,Auriculares Bluetooth,Elec.,80.00,4,Tarjeta
+T008,Cable HDMI,Accesorios,NaN,10,Efectivo
+T009,Webcam HD,accesorios,45.00,3,Tarjeta
+T010,Soporte para Monitor ,Muebles,35.00, ,Transferencia
+T011,Laptop Pro 15,Electronica,1200.50,1,Tarjeta
+T012,Mouse Inalambrico,Electronica,25.00,2,Efctivo
+T013,Teclado Mecanico,Electronica,85.00,0,Tarjeta
+T014,Silla Gamer,muebles,150.00,1,Tarjeta
+T015,Monitor 27 Pulgadas,Electronica,300.00,2,
